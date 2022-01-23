@@ -1,0 +1,2 @@
+nth fibonacci number using formula:
+http://www.maths.surrey.ac.uk/hosted-sites/R.Knott/Fibonacci/fibFormula.html
